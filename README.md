@@ -1,5 +1,5 @@
 # Tugas Proyek WEB 3
-<p>Pada tugas ini, saya membuat sebuah program menggunakan bahasa pemrograman JavaScript yang dijalankan melalui Node.js di terminal (tanpa menggunakan HTML). Program ini bertujuan untuk menentukan zodiak seseorang berdasarkan tanggal dan bulan lahir yang diinput oleh pengguna.</p>
+<p>Pada tugas ini, saya membuat sebuah program menggunakan bahasa pemrograman JavaScript yang dijalankan melalui Node.js (tanpa menggunakan HTML). Program ini bertujuan untuk menentukan zodiak seseorang berdasarkan tanggal dan bulan lahir yang diinput oleh pengguna.</p>
 
 
 <h2>📌 Penjelasan Kode</h2>
